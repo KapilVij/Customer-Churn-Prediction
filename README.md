@@ -57,7 +57,7 @@ imblearn
 
 ### 5. Model Evaluation
 - Metrics used: **Confusion Matrix**, **Classification Report**, **Accuracy**
-- Example output:
+- Output:
 
 ```
 Confusion Matrix:
